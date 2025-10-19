@@ -87,7 +87,7 @@ export default function BackG() {
             className="flex justify-center"
           >
             <img
-              src="public/images/background/parallax/mulhercomendo.webp"
+              src="/images/background/parallax/mulhercomendo.webp"
               alt="Mulher comendo açaí"
               className="w-full max-w-md rounded-3xl shadow-lg"
             />
