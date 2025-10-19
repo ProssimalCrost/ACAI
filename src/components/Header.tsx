@@ -6,7 +6,7 @@ export function Header() {
             <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
                 <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
                     <img
-                        src="public/açaiMarketing/logoacai.png"
+                        src="/açaiMarketing/logoacai.png"
                         className="w-20 h-20 rounded"
                         alt="Logo"
                     />
