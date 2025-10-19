@@ -13,7 +13,7 @@ export default function BackG() {
       
         <Parallax speed={-50}>
           <img 
-            src="public/images/background/images/tigelaroxa.webp" 
+            src="/images/background/images/tigelaroxa.webp" 
             alt="Parallax Background"
             style={{
               width: '100%',
@@ -32,10 +32,10 @@ export default function BackG() {
          <CarouselLite className="w-full max-w-5xl h-[260px] md:h-[380px] lg:h-[600px] mx-auto rounded-2xl shadow-2xl"
 
             slides={[
-              { src: "public/açaiMarketing/logoacai.png", alt: "Destaque 1" },
-              { src: "public/açaiMarketing/3acai.jpg", alt: "Destaque 2" },
-              { src: "public/açaiMarketing/morango.jpg", alt: "Destaque 3" },
-              { src: "public/açaiMarketing/tigela.jpg", alt: "Destaque 4" },
+              { src: "/açaiMarketing/logoacai.png", alt: "Destaque 1" },
+              { src: "/açaiMarketing/3acai.jpg", alt: "Destaque 2" },
+              { src: "/açaiMarketing/morango.jpg", alt: "Destaque 3" },
+              { src: "/açaiMarketing/tigela.jpg", alt: "Destaque 4" },
             ]}
           />
         </div>
